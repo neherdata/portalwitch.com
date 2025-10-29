@@ -4,7 +4,13 @@ Personal website for Moriah J. Williams.
 
 ## Deployment
 
-This site is hosted via GitHub Pages.
+This site is deployed via Cloudflare Pages.
+
+### Cloudflare Pages Configuration
+
+- **Build command**: `echo "Static site - no build needed"`
+- **Build output directory**: `/` (root)
+- **Root directory**: `/` (root)
 
 ## Source
 
